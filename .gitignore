@@ -19,6 +19,9 @@ lib64/
 parts/
 sdist/
 var/
+data/
+artifacts/movie_list.pkl
+artifacts/similarity.pkl
 wheels/
 share/python-wheels/
 *.egg-info/
