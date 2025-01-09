@@ -33,7 +33,7 @@ This simple and effective system demonstrates how machine learning and natural l
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommendation-System-Using-ML.git
+https://github.com/highfrezh/Movie-Recommendation-System-Using-ML.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
